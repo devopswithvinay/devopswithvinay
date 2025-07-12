@@ -1,11 +1,6 @@
 <h1 align="center" style="color: #2c3e50;">👋 Hi, I'm <span style="color: #16a085;">Vinay</span></h1>
 <h3 align="center" style="color: #2980b9;">DevOps Engineer with 8 years of experience in automating, deploying, and managing scalable cloud-native infrastructures</h3>
 
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/d02eca05-d391-469b-9e3a-0cd014bbad58" alt="picture"/>
-</p>
-
-
 ---
 
 <p align="left">
@@ -80,6 +75,50 @@
   <img src="https://img.shields.io/badge/ArgoCD-EF7B4D?style=for-the-badge&logo=argo&logoColor=white" alt="ArgoCD" />
   <img src="https://img.shields.io/badge/Vault-000000?style=for-the-badge&logo=vault&logoColor=white" alt="Vault" />
 </p>
+
+---
+
+### 🚀 Projects
+
+#### 🟢 **1. Kubernetes Cluster Setup with Helm**
+- **Description:** Designed and deployed a production-grade Kubernetes cluster on AWS EKS with Helm for application packaging and deployment.  
+- **Tech Stack:** AWS EKS, Kubernetes, Helm, Terraform, GitHub Actions  
+- **Highlights:** Implemented rolling updates, blue-green deployments, and automated Helm chart pipelines for microservices.
+
+---
+
+#### 🟢 **2. CI/CD Pipeline for Microservices**
+- **Description:** Built scalable CI/CD pipelines integrating code quality checks, container builds, vulnerability scanning, and multi-environment deployments.  
+- **Tech Stack:** Jenkins, Docker, Kubernetes, SonarQube, Trivy, AWS ECS  
+- **Highlights:** Reduced deployment time by 60% and improved release frequency with secure, automated pipelines.
+
+---
+
+#### 🟢 **3. Infrastructure as Code with Terraform**
+- **Description:** Automated provisioning of complete VPC infrastructure including EC2, RDS, and S3 using modular Terraform scripts.  
+- **Tech Stack:** Terraform, AWS, Git, GitHub Actions  
+- **Highlights:** Achieved environment consistency and reduced manual provisioning errors across dev, staging, and prod.
+
+---
+
+#### 🟢 **4. Monitoring and Alerting Stack Implementation**
+- **Description:** Deployed Prometheus and Grafana to monitor Kubernetes workloads and AWS infrastructure with real-time alerting.  
+- **Tech Stack:** Prometheus, Grafana, Alertmanager, AWS CloudWatch  
+- **Highlights:** Established proactive alerting for CPU, memory, and pod health to minimise downtime and MTTR.
+
+---
+
+#### 🟢 **5. GitOps Workflow with ArgoCD**
+- **Description:** Implemented GitOps for Kubernetes using ArgoCD, enabling declarative application deployment and version-controlled configuration management.  
+- **Tech Stack:** ArgoCD, Kubernetes, GitHub, Helm  
+- **Highlights:** Improved deployment visibility, rollback capabilities, and environment drift prevention.
+
+---
+
+#### 🟢 **6. DevSecOps Pipeline Integration**
+- **Description:** Integrated security tools into CI/CD pipelines to scan IaC scripts, container images, and dependencies.  
+- **Tech Stack:** Jenkins, Trivy, Checkov, SonarQube  
+- **Highlights:** Ensured secure deployments with automated vulnerability detection and compliance checks.
 
 ---
 
