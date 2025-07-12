@@ -1,5 +1,6 @@
 <h1 align="center" style="color: #2c3e50;">👋 Hi, I'm <span style="color: #16a085;">Vinay</span></h1>
 <h3 align="center" style="color: #2980b9;">DevOps Engineer with 8 years of experience in automating, deploying, and managing scalable cloud-native infrastructures</h3>
+![code](https://github.com/user-attachments/assets/9f7ad21e-3e8e-4ece-8b28-a22389102a4a)
 
 ---
 
