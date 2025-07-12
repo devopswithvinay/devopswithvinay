@@ -1,5 +1,5 @@
 <h1 align="center" style="color: #2c3e50;">👋 Hi, I'm <span style="color: #16a085;">Vinay</span></h1>
-<h3 align="center" style="color: #2980b9;">A passionate DevOps Engineer dedicated to building scalable, reliable, and efficient systems</h3>
+<h3 align="center" style="color: #2980b9;">A passionate DevOps Engineer with 8 years of experience in building scalable, reliable, and efficient systems</h3>
 
 ---
 
@@ -8,12 +8,12 @@
 </p>
 
 ### 🌟 About Me  
-- 🛠️ **I’m an experienced DevOps Engineer** focused on automating workflows and enhancing system performance.  
-- ☁️ **Currently exploring**: Cloud-native development, Kubernetes, CI/CD pipelines, and Infrastructure as Code (IaC) for robust deployments.  
+- 🛠️ **I’m an experienced DevOps Engineer** with 8 years in automating workflows, optimizing cloud infrastructure, and enhancing system performance.  
+- ☁️ **Currently exploring**: Cloud-native development, Kubernetes, CI/CD pipelines, Infrastructure as Code (IaC), and cloud security best practices.  
 - 👨‍💻 **All of my projects and contributions** will be updated soon on: [My GitHub Portfolio](https://github.com/devopswithvinay)  
-- 📫 **How to reach me**: vinay.kumar@gmail.com *(update with your active email if different)*  
+- 📫 **How to reach me**: vinaydevops76074@gmail.com  
 - 💬 **Personal Message**:  
-  I’m dedicated to continuous learning and growth in DevOps, Cloud, and Site Reliability Engineering (SRE). Currently diving deeper into **cloud security**, **GitOps**, and **platform engineering practices** to build resilient and scalable systems.
+  I’m dedicated to continuous learning and growth in DevOps, Cloud, and Site Reliability Engineering (SRE). Currently diving deeper into **GitOps**, **platform engineering**, and building resilient, scalable systems.
 
 ---
 
